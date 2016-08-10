@@ -2,7 +2,7 @@
 
 a simple php page for viewing the status of a linux server
 
-![alt text] (https://.shravanj.com/files/sss/screenshot.png)
+![alt text] (https://github.com/ShravanJ/Simple-Server-Stats/blob/master/screenshot.png)
 
 Current features
 ================
