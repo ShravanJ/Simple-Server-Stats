@@ -2,6 +2,12 @@
 
 a simple php page for viewing the status of a linux server
 
+Current features
+================
+-Internal network IP of server
+-Uptime
+-CPU temperature (in degrees fahrenheit)
+
 Pre-reqs
 ========
 -A linux system with php and an HTTP server installed 
