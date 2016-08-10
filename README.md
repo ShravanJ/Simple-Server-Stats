@@ -12,6 +12,8 @@ Current features
 
 -CPU temperature (in degrees fahrenheit)
 
+-Live updating by the second (via meta refresh)
+
 Pre-reqs
 ========
 -A linux system with php and an HTTP server installed 
