@@ -2,6 +2,8 @@
 
 a simple php page for viewing the status of a linux server
 
+![alt text] (https://.shravanj.com/files/sss/screenshot.png)
+
 Current features
 ================
 -Internal network IP of server
